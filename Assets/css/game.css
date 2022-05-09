@@ -1,0 +1,5 @@
+.gameHeader {
+    background: url(../Illustrations/Game/Batgame1.png) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
